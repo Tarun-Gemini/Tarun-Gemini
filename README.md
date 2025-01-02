@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tarun-Gemini
 - 👀 I’m interested in Data Analytics professionaly
-- 🌱 I’m currently working as a Senior Analyst at LTI
+- 🌱 I’m currently working as a Data Analyst
 - 💞️ I’m looking to collaborate on building insightful dashboards for data visualizations.
 - 📫 You can reach me via email: tarun.ananthoju@gmail.com
 
